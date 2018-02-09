@@ -41,7 +41,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nUser-agent: Yeti\nAllow:/",
+    "robotsText": "User-agent: Yeti\nAllow:/\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on"
   },

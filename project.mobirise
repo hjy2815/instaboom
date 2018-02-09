@@ -38,7 +38,8 @@
     "versionFirst": "4.5.3",
     "uniqCompNum": 14,
     "versionPublish": "4.5.3",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -46,7 +47,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<head>\n    <title>인스타붐</title>\n    <meta property=\"og:url\" content=\"http://instaboom.co.kr/\">\n    <meta property=\"og:title\" content=\"인스타붐\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/9QtWXMR.jpg\">\n    <meta property=\"og:description\" content=\"인스타그램 좋아요 팔로워 늘리기\">\n    <meta name=\"description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"keywords\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n<meta name=\"robots\" content=\"index,follow\">\n<meta name=\"naver-site-verification\" content=\"973784f3315d171ac35ee666f97de3431d49459c\"/>\n<meta name=\"google-site-verification\" content=\"rZL-RFrpDNVD_p2y99wrjxRVZoINPRa233VfYarI4_g\" />\n</head>\n",
         "footer_custom": "",
         "html_before": ""
       },
